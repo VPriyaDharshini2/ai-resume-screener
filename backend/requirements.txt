@@ -1,0 +1,8 @@
+flask==3.1.0
+flask-cors==5.0.1
+gunicorn==23.0.0
+PyMuPDF==1.25.3
+numpy==2.2.2
+pydantic==2.10.4
+litellm==1.55.8
+python-dotenv==1.0.1
